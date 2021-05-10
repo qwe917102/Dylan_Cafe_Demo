@@ -1,4 +1,4 @@
-# Dylan_Cafe_Demo  小專案
+# Dylan_Cafe_Demo  小專案 (資策會前期切版)
 ```
 咖啡下午茶餐廳簡單形象網站
 ```
